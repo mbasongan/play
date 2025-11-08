@@ -2,7 +2,6 @@
 #EXT-X-VERSION:2
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/32713.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:BE:31:BC&stream=477170&extension=m3u8
+
 
 
