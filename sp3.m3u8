@@ -3,6 +3,4 @@
 #EXT-X-STREAM-INF:BANDWIDTH=2300000
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/114767.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2300000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22010.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2300000
 http://portal8k.top:80/play/live.php?mac=00:1A:79:22:02:D5&stream=256122&extension=m3u8
