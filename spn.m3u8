@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.m3u8
+http://streamzone.digital:80/play/live.php?mac=00:1A:79:2C:4F:A3&stream=264276&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://flx.lat:8080/live/DonPota/hz4fhL6f3ZCg/155228.m3u8
+http://flx.lat:8080/live/DonPota/hz4fhL6f3ZCg/155225.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://streamzone.digital:80/play/live.php?mac=00:1A:79:2C:4F:A3&stream=891274&extension=m3u8
 
