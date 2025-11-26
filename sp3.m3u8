@@ -4,4 +4,5 @@
 http://flx.lat:8080/live/DonPota/hz4fhL6f3ZCg/258497.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2300000
 http://flx.lat:8080/live/DonPota/hz4fhL6f3ZCg/199173.m3u8
-
+#EXT-X-STREAM-INF:BANDWIDTH=2300000
+http://exm3u.extraott.com:80/live/54RL5KJE/QVVXHK64/355751.m3u8
